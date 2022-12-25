@@ -75,6 +75,7 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2023-01-01' },
+      ],
     }
   ],
 
