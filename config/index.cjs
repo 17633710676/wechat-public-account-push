@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: '河南',
   CITY: '南阳',
 
-  USERS1: [
+  USERS: [
     {
       // 想要发送的人的名字
       name: '4CHEN',
@@ -47,10 +47,8 @@ const USER_CONFIG = {
         // { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
-  ],
-  
-  USERS2: [
-    {
+    
+     {
       // 想要发送的人的名字
       name: 'CHANGES1',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
@@ -80,6 +78,7 @@ const USER_CONFIG = {
         // { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
+    
   ],
 
 
